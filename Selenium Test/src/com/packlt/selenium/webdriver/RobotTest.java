@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.*;
 
 public class RobotTest {
-test
+
 	private WebDriver driver;
 	private WebElement login;
 	private String browser;
